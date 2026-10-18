@@ -1,5 +1,12 @@
 # Lunara Agent Handoff
 
+> Historical handoff, superseded 2026-10-17. This records March recovery work;
+> its authority and direct-deployment instructions do not govern current work.
+> Start with [AGENTS.md](../AGENTS.md) and the
+> [active Theme agreement](https://github.com/Lunara-Film/lunara-theme-blocks/blob/main/AGENTS.md).
+> Agents merge completed verified PRs; production deployment is separately
+> authorized. Preserve the historical evidence below.
+
 Updated: 2026-03-27
 
 ## Read This First

@@ -1,5 +1,12 @@
 # Lunara Deploy Checklist
 
+> Historical reference, superseded 2026-10-17. This legacy combined repository
+> is outside the current WordPress release set. Read [AGENTS.md](../AGENTS.md)
+> and the [active Theme agreement](https://github.com/Lunara-Film/lunara-theme-blocks/blob/main/AGENTS.md).
+> Agents own verified PR merges; deployment requires separate authorization and
+> verification of the real host/source. The checklist below is retained as
+> recovery history, not an instruction to deploy this checkout.
+
 Use this checklist for every production deploy.
 
 ## 1) Pre-deploy
