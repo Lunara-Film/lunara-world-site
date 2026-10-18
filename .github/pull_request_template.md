@@ -11,17 +11,15 @@ Describe what changed and why.
 ## Validation
 
 - [ ] CI passed (`Lint and Validate`)
-- [ ] Smoke-tested key routes:
-  - [ ] `/`
-  - [ ] `/reviews/`
-  - [ ] `/news/`
-  - [ ] `/oscars/`
-  - [ ] One review single (`/reviews/{slug}/`)
-  - [ ] One Oscars detail page (`/oscars/title/{id}/` or `/oscars/ceremony/{id}/`)
+- [ ] Relevant local checks recorded with commands, results and limits
+- [ ] Documentation-only changes identified; no live smoke test is claimed
+- [ ] Exact repository, base branch and final head SHA verified before merge
 - [ ] No protected assets were deleted/structurally altered (media, posts, reviews, Oscars DB records)
 
 ## Deployment Notes
 
+- Deployment status: not requested / separately authorized / verified live
+- This legacy checkout is not a current website release source. Follow `AGENTS.md`.
 - Risk level: Low / Medium / High
 - Rollback plan:
 - Post-deploy checks:
